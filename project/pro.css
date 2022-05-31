@@ -1,0 +1,212 @@
+body{
+background-image: url(./iStock-1210484371.jpg);
+position: relative;}
+.navbar{
+	
+	text-align: center;
+	padding: 0;
+	border-radius: 85px;
+background-image: url(./tesla-company.jpg);	
+
+background-position: bottom;
+}
+	
+
+ul li a{
+	
+	display: inline-block;
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(203, 204, 212);
+    width: 184px;
+    height: 29px;
+    border-radius: 28px;
+    text-align: center;
+    padding: 16px;
+    margin: 9px;
+	
+}
+ul li a:hover{
+	background-color: #ffffff;
+}
+ul li{
+	display: inline-block;
+	padding: 10px;
+	position: sticky;
+}
+#img{
+    border-radius: 540px;
+    width: 1782px;
+}
+.btn1,.btn2{
+	background-color: #a3d6d6;
+	margin: 14px;
+    font-size: 29px;
+    width: 12%;
+    justify-content: space-between;
+    border-radius: 52px;
+	text-align: center;
+    padding: 11px;
+}
+a img{
+	width: 126px;
+    display: inline-block;
+	border-radius: 66px;
+    margin-right: 77px;
+    margin-bottom: -34px;
+    
+}
+.btn1{
+	margin-right: 48%;
+	
+}
+.btn1:hover,.btn2:hover{
+	background-color: ghostwhite;
+}
+.btn{
+	background-color: #a3d6d6;
+	margin: 14px;
+    font-size: 29px;
+    width: 12%;
+    justify-content: space-between;
+    border-radius: 52px;
+	text-align: center;
+    padding: 11px;
+}
+
+.btn:hover{
+	background-color: ghostwhite;
+}
+
+.image{
+	width: 19%;
+    height: 20%;
+    margin: 26px;
+	border-radius: 112px;
+}
+
+#one{
+	width: 17%;
+	
+}
+footer{
+    background-color: rgb(126 158 158);
+    min-height: 100px;
+    opacity: .7;
+    padding: 29px;
+    border-radius: 18px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.6em;
+   
+}
+.phone{
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 255, 160, 0.8);
+    font-size: 1.2em;
+}
+footer a{
+    color: rgba(255, 255, 255, 1.0);
+    text-decoration: underline;
+}
+footer a:hover{
+    color: rgba(255, 150, 0, 0.7);
+}
+#rightSec {
+	width: 90%;
+	margin-left: 3%;
+	margin-right: 3%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+#rightSec {
+    background-color: #decbcb;
+    width: 93%;
+    margin-left: 1.5%;
+    margin-right: 3%;
+    margin-bottom: 60px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 110px;
+    opacity: .8;
+    text-align: center;
+    font-size: 27px;
+}
+#changelink{
+    background-color: #002890;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 34px;
+    float: right;
+}
+.iconLink{
+    display: revert;
+    padding: 19px;
+    margin: 20px;
+    background-color: black;
+    border-radius: 37px;
+    width: 100%;
+    height: 14%;
+    padding-top: 20px;
+}
+h1 {
+	color: rgba(255,255,255,1.00);
+	font-family: alfa-slab-one;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 2em;
+	text-align: center;
+    border-radius: 52px;
+    background-color: slategrey;
+    padding: 20;
+	text-shadow: 3px 3px 5px rgba(0,0,0,1.00);
+}
+h2 {
+	color: rgba(0,0,0,1.00);
+	font-family: alfa-slab-one;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 1.5em;
+	text-align: center;
+}
+p {
+	color: rgba(0,0,0,1.00);
+	font-family: actor;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 150%;
+}
+#contact{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    justify-content: space-around;
+    margin: 19px;
+    width: 77%;
+}
+#damage{
+    display: flex;
+}
+lable, input, textarea{
+    width: 100%;
+    height: 7%;
+    margin-bottom: 24px;
+    background-color: #ceceea;
+    border-radius: 21px;
+    text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+}
+lable:focus, input:focus, textarea:focus{
+    background-color: rgb(140, 170, 187);
+}
+lable, input:hover{
+    background-color: burlywood;
+
+}
+label , input{
+    font-size: 35px;
+    font-family: cursive;
+}
